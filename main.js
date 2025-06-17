@@ -1,4 +1,4 @@
-//*  Dom l3
+//*  Dom lesson 3
 
 const ul = document.createElement("ul");
 
